@@ -4,6 +4,7 @@ Gruppenmitglieder:
 
 Damian Eisenring, Janick Hurschler
 
+
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
@@ -14,7 +15,7 @@ Damian Eisenring, Janick Hurschler
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Unser Projekt ist das Spiel "4 gewinnt" als Webapplikation. Dies machen wir mit html, CSS, JavaScript.
 
 ### 1.2 User Stories
 
