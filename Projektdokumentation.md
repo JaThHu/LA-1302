@@ -42,11 +42,9 @@ Unser Projekt ist das Spiel "4 gewinnt" als Webapplikation. Dies machen wir mit 
 | 5.2  |     Spieler O hat gewonnen.       |    -     |       Spieler O hat gewonnen.         |
 | 6.1  |     5.1/5.2        |   auf "neues Spiel" clicken.    |       neues Spiel wird gestartet.          |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
 ### 1.4 Diagramme
+<img width="357" alt="PAP" src="https://github.com/JaThHu/LA-1302/assets/111045598/8d4f707c-6619-4974-8567-f5aa43719c18">
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
 ## 2 Planen
 
