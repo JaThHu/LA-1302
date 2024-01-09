@@ -50,14 +50,11 @@ Unser Projekt ist das Spiel "4 gewinnt" als Webapplikation. Dies machen wir mit 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+| 1.A  |  29.11.     |     Damian, Janick      |      wir informieren und über React und lernen es anzuwenden.        |       5 mal 45min        |
+| 1.B  |   06.12.    |     Damian, Janick      |       React-Projekt wird gestartet und das Grundgerüst programmiert.       |       3 mal 45min        |
+| 3.A  |   06.12.    |     Damian, Janick      |       Spielfeld und Button zum spielen wird erstellt     |       2 mal 45min        |
+| 4.A  |   13.12.    |     Damian, Janick      |       Spielfunktion wurde programmiert und kann angewendet werden.       |       5 mal 45min        |
+| 1.C |   20.12.    |     Damian, Janick      |       Design wurde überarbeitet und schön gemacht. Feinschliff.       |       5 mal 45min        |
 
 ## 3 Entscheiden
 
