@@ -22,8 +22,8 @@ Unser Projekt ist das Spiel "4 gewinnt" als Webapplikation. Dies machen wir mit 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |      Muss           |  Funktional    | Als ein User möchte ich das Spiel als eine Webapplikation öffnen, damit ich ein GUI habe. |
+| 2  |       Muss          |   Funktional   | Als ein User möchte ich                                    |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
