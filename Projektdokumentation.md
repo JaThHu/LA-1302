@@ -51,9 +51,9 @@ Unser Projekt ist das Spiel "4 gewinnt" als Webapplikation. Dies machen wir mit 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  29.11.     |     Damian, Janick      |      wir informieren und über React und lernen es anzuwenden.        |       5 mal 45min        |
-| 1.B  |   06.12.    |     Damian, Janick      |       React-Projekt wird gestartet und das Grundgerüst programmiert.       |       3 mal 45min        |
+| 1.B  |   06.12.    |     Damian      |       React-Projekt wird gestartet und das Grundgerüst programmiert.       |       3 mal 45min        |
 | 3.A  |   06.12.    |     Damian, Janick      |       Spielfeld und Button zum spielen wird erstellt     |       2 mal 45min        |
-| 4.A  |   13.12.    |     Damian, Janick      |       Spielfunktion wurde programmiert und kann angewendet werden.       |       5 mal 45min        |
+| 4.A  |   13.12.    |     Damian     |       Spielfunktion wurde programmiert und kann angewendet werden.       |       5 mal 45min        |
 | 1.C |   20.12.    |     Damian, Janick      |       Design wurde überarbeitet und schön gemacht. Feinschliff.       |       5 mal 45min        |
 
 ## 3 Entscheiden
@@ -65,9 +65,9 @@ Wir haben uns entschieden, React für dieses Projekt zu nutzen, weil es bei grö
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |   22.11.    |      Damian, Janick     |      5 mal 45min         |         5 mal 45min          |
-| 1.B  |   29.11.    |    Damian, Janick       |        3 mal 45min       |           2 mal 45min        |
+| 1.B  |   29.11.    |    Damian      |        3 mal 45min       |           2 mal 45min        |
 | 3.A  |   29.11.    |    Damian, Janick       |        2 mal 45min       |         2 mal 45min          |
-| 4.A  |  06.12.     |     Damian, Janick      |       5 mal 45min        |          5 mal 45min         |
+| 4.A  |  06.12.     |     Damian     |       5 mal 45min        |          5 mal 45min         |
 | 1.C  |    13.12.   |     Damian, Janick      |         5 mal 45min      |          4 mal 45min         |
 
 
@@ -77,9 +77,15 @@ Wir haben uns entschieden, React für dieses Projekt zu nutzen, weil es bei grö
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |   20.12.    |     OK     |   Damian     |
+| 2.1  |    20.12.   |      OK    |     Damian  |
+| 3.1  |   20.12.    |       OK   |      Damian  |
+| 4.1  |   20.12.    |         OK |     Damian   |
+| 4.2  |   20.12.    |      OK    |      Janick  |
+| 5.1  |   20.12.    |       OK   |      Janick  |
+| 5.2  |   20.12.    |       OK   |     Janick   |
+| 6.1  |   20.12.    |       OK   |     Janick   |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Fazit: Alles Tests verliefen gut und hat zum gewünschten Ergebniss geführt.
 
 
