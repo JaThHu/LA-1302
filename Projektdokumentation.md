@@ -23,18 +23,24 @@ Unser Projekt ist das Spiel "4 gewinnt" als Webapplikation. Dies machen wir mit 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |      Muss           |  Funktional    | Als ein User möchte ich das Spiel als eine Webapplikation öffnen, damit ich ein GUI habe. |
-| 2  |       Muss          |   Funktional   | Als ein User möchte ich                                    |
+| 2  |       Muss          |   Rand   | Als ein Programmierer möchte ich, dass die Webapp mit HTML, CSS und Javascript programmiert ist, damit Sicherheit und Einheit gegeben ist.  |
 | 3 |       Muss          |   Funktional   | Als ein User möchte ich das Spiel starten können, um zu spielen.                                 |
-| 4  |       Muss          |   Funktional   | Als ein User möchte ich entweder als Spieler X oder O auf ein Feld setzen, um das 4-Gewinnt zu spielen.                          |
+| 4  |       Muss          |   Funktional   | Als ein User möchte ich entweder als Spieler X oder O auf ein Feld setzen, um das 4-Gewinnt zu spielen.    |
 | 5  |       Muss          |   Qualität   | Als ein User möchte ich wissen, wer Gewonnen hat, damit ich meinen Sieg mit Champagner zu feiern.  |
-| 6  |       Kann          |   Qualität   | Als ein User möchte ich ein neues Spiel starten können, um meinem Gegner eine Revanche zu bieten.               |
+| 6  |       Kann          |   Qualität   | Als ein User möchte ich ein neues Spiel starten können, um meinem Gegner eine Revanche zu bieten.   |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |     Das Spiel ist zum Öffnen bereit.         |   Spiel öffnen.      |       Browser mit Webapplikation öffnet sich.            |
+| 2.1  |     Code ist offen.         |    Code wird angeschaut.     |        HTML, CSS und JS wird verwendet.           |
+| 3.1  |     1.1         |    auf "neues Spiel" clicken.    |        neues Spiel wird gestartet.         |
+| 4.1  |    3.1         |   auf ein Feld clicken.    |      ein X wird beim Feld gesetzt.          |
+| 4.2|    3.1       |    auf ein Feld clicken.     |        ein O wird beim Feld gesetzt.          |
+| 5.1  |     Spieler X hat gewonnen.     |   -    |      Spieler X hat gewonnen.         |
+| 5.2  |     Spieler O hat gewonnen.       |    -     |       Spieler O hat gewonnen.         |
+| 6.1  |     5.1/5.2        |   auf "neues Spiel" clicken.    |       neues Spiel wird gestartet.          |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
