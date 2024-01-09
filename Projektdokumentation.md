@@ -58,16 +58,18 @@ Unser Projekt ist das Spiel "4 gewinnt" als Webapplikation. Dies machen wir mit 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns entschieden, React für dieses Projekt zu nutzen, weil es bei grösseren Projekten einfacher wird wenn man es beherscht und weil wir es für zukünftige Projekte auch gleich nutzen können.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |   22.11.    |      Damian, Janick     |      5 mal 45min         |         5 mal 45min          |
+| 1.B  |   29.11.    |    Damian, Janick       |        3 mal 45min       |           2 mal 45min        |
+| 3.A  |   29.11.    |    Damian, Janick       |        2 mal 45min       |         2 mal 45min          |
+| 4.A  |  06.12.     |     Damian, Janick      |       5 mal 45min        |          5 mal 45min         |
+| 1.C  |    13.12.   |     Damian, Janick      |         5 mal 45min      |          4 mal 45min         |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
