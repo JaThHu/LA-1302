@@ -7,10 +7,10 @@ Damian Eisenring, Janick Hurschler
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   22.11.2023    | 0.0.1   | das Grundgerüst der Webapplikation ist erstellt. |
-|   29.11.2023    | 0.1    |   Raster, bzw. Spielfeld, wurde hinzugefügt.                                                           |
-|   06.12.2023    | 0.2   |       Spielfunktion wurde hinzugefügt.                                                       |
-|   13.12.2023    | 0.3   |       letztes Überarbeiten und Design.                                                      |
+|   22.11.2023    | 0.1  | das Grundgerüst der Webapplikation ist erstellt. |
+|   29.11.2023    | 0.2   |   Raster, bzw. Spielfeld, wurde hinzugefügt.                                                           |
+|   06.12.2023    | 0.3   |       Spielfunktion wurde hinzugefügt.                                                       |
+|   13.12.2023    | 0.4   |       letztes Überarbeiten und Design.                                                      |
 
 ## 1 Informieren
 
