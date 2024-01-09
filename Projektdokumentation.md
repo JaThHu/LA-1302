@@ -24,8 +24,10 @@ Unser Projekt ist das Spiel "4 gewinnt" als Webapplikation. Dies machen wir mit 
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |      Muss           |  Funktional    | Als ein User möchte ich das Spiel als eine Webapplikation öffnen, damit ich ein GUI habe. |
 | 2  |       Muss          |   Funktional   | Als ein User möchte ich                                    |
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+| 3 |       Muss          |   Funktional   | Als ein User möchte ich das Spiel starten können, um zu spielen.                                 |
+| 4  |       Muss          |   Funktional   | Als ein User möchte ich entweder als Spieler X oder O auf ein Feld setzen, um das 4-Gewinnt zu spielen.                          |
+| 5  |       Muss          |   Qualität   | Als ein User möchte ich wissen, wer Gewonnen hat, damit ich meinen Sieg mit Champagner zu feiern.  |
+| 6  |       Kann          |   Qualität   | Als ein User möchte ich ein neues Spiel starten können, um meinem Gegner eine Revanche zu bieten.               |
 
 ### 1.3 Testfälle
 
